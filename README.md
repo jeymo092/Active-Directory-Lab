@@ -1,6 +1,6 @@
-# Windows Server 2019 Cybersecurity Lab
+# Windows Server Cybersecurity Lab
 
-Welcome to the Windows Server 2019 Cybersecurity Lab repository! This lab is designed to provide hands-on experience and practice in securing a Windows Server 2019 environment. Explore various cybersecurity concepts, tools, and best practices within this lab.
+Welcome to the Windows Server Cybersecurity Lab repository! This lab is designed to provide hands-on experience and practice in securing a Windows Server environment. Explore various cybersecurity concepts, tools, and best practices within this lab.
 
 ## Lab Components
 
@@ -70,8 +70,5 @@ This lab is designed for learning and experimentation. Feel free to modify, cust
 
 Stay informed about updates, improvements, and additional exercises by regularly checking the [CHANGELOG.md](CHANGELOG.md) file.
 
-## How to Contribute
-
-Contributions to enhance the lab content, add new exercises, or improve documentation are welcome! Follow the guidelines in [CONTRIBUTING.md](CONTRIBUTING.md) to contribute.
 
 Happy Learning and Securing! 🚀🔐
